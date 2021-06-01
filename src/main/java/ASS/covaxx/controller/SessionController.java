@@ -1,3 +1,4 @@
+/************************** Shino's Contribution *********************/
 package ASS.covaxx.controller;
 import ASS.covaxx.model.Practice;
 import ASS.covaxx.model.Session;
@@ -139,5 +140,6 @@ public class SessionController {
     }
 
 }
+/************************** Shino's Contribution *********************/
 
 

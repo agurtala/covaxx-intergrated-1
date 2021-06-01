@@ -1,3 +1,5 @@
+/************************** Alfiyyah's Contribution *********************/
+
 package ASS.covaxx.model;
 
 import org.bson.types.ObjectId;
@@ -24,3 +26,5 @@ public class Certificate {
 
 
 }
+
+/************************** Alfiyyah's Contribution *********************/

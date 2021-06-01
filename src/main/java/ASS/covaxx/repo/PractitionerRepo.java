@@ -1,3 +1,5 @@
+/************************** Shino's Contribution *********************/
+
 package ASS.covaxx.repo;
 
 import ASS.covaxx.model.Practitioner;
@@ -21,3 +23,5 @@ public class PractitionerRepo {
 
     public Collection<Practitioner> getAll() { return mongo.findAll(Practitioner.class); }
 }
+
+/************************** Shino's Contribution *********************/

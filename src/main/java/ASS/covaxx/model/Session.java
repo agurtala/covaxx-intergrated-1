@@ -1,3 +1,4 @@
+/************************** Shino's Contribution *********************/
 package ASS.covaxx.model;
 
 import org.bson.types.ObjectId;
@@ -25,3 +26,4 @@ public class Session {
 
 
 }
+/************************** Shino's Contribution *********************/

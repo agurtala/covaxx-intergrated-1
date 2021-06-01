@@ -1,3 +1,4 @@
+///************************** Shino's Contribution *********************/
 package ASS.covaxx.model;
 
 import org.springframework.data.annotation.Id;
@@ -17,3 +18,4 @@ public class Patient {
 
 }
 
+///************************** Shino's Contribution *********************/

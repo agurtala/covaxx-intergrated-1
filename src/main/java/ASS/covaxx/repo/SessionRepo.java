@@ -1,3 +1,5 @@
+/************************** Shino's Contribution *********************/
+
 package ASS.covaxx.repo;
 
 import ASS.covaxx.model.Session;
@@ -37,3 +39,6 @@ public class SessionRepo {
     }
 
 }
+
+
+/************************** Shino's Contribution *********************/
